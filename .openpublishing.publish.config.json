@@ -27,6 +27,12 @@
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "test",
+      "url": "https://github.com/MicrosoftDocs/test-int-180620-1",
+      "branch": "master",
+      "branch_mapping": {}
     }
   ],
   "need_generate_pdf_url_template": false,
